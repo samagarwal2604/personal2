@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+  background-color: #ccf2f4;
+
+  font-family: 'Merriweather', serif;
+
+}
+h1
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+   line-height: .5 ;
+}
+.topbar
+{
+  height: 100px;
+width: 100%;
+  position:  fixed;
+  background-color: black;
+}
+.top
+{
+
+  height: 800px;
+    width: 50%;
+  position: relative;
+    left: 400px;
+    top: 200px;
+}
+.one
+{
+  position: relative;
+  left: 20%;
+
+}
+.two
+{
+  position: relative;
+  left: 40%;
+  font-weight: normal;
+}
+.three
+{
+  position: relative;
+  left: 10%;
+
+}
+.four
+{
+  position: relative;
+  left: 75%;
+  bottom: 300px;
+
+}
+.five
+{
+  position: relative;
+  right: 20%;
+
+
+}
+.middle-container
+{
+
+  text-align: center;
+}
+.contact-me
+{
+
+  text-align: center;
+}
+.bottom-container
+{
+
+  text-align: center;
+}
